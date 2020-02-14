@@ -1,0 +1,77 @@
+button {
+    background-color: rgb(157, 157, 197);
+}
+
+#enviar {
+    background-color: rgb(181, 226, 181);
+}
+
+#alquilar {
+    background-color: lightblue;
+}
+
+#salir {
+    background-color: rgb(173, 97, 97);
+}
+
+#informe {
+    background-color: seagreen;
+}
+
+#texto {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+}
+
+#titulo {
+    width: auto;
+    height: auto;
+    color: white;
+    text-align: center;
+    background-color: green;
+    font-size: 50PX;
+}
+
+#ingresos {
+    text-align: center;
+    background-color: rgb(30, 179, 30);
+    margin-top: -16px;
+    font-size: 30px;
+    border-right: grey;
+    border-right-style: solid;
+    border-right-width: 2px;
+}
+
+#gastos {
+    text-align: center;
+    background-color: rgb(211, 99, 99);
+    margin-top: -16px;
+    width: 100%;
+    font-size: 30px;
+}
+
+#final {
+    width: 20%;
+}
+
+#dinero {
+    width: 12%;
+}
+
+#tablaFinal {
+    margin-top: -16px;
+    font-weight: bold;
+}
+
+#tituloI {
+    text-align: center;
+    color: green;
+}
+
+#tituloII {
+    text-align: center;
+    color: red;
+}
